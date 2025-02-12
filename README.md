@@ -12,10 +12,12 @@ challenge GrowthHungry
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ummkhalid/30github/tree/master/0001-two-sum) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ummkhalid/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ummkhalid/30github/tree/master/0001-two-sum) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ummkhalid/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
 |  |
 | ------- |
@@ -28,4 +30,12 @@ challenge GrowthHungry
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ummkhalid/30github/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Sorting
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ummkhalid/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ummkhalid/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
