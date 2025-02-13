@@ -12,11 +12,13 @@ challenge GrowthHungry
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ummkhalid/30github/tree/master/0001-two-sum) |
+| [0575-distribute-candies](https://github.com/ummkhalid/30github/tree/master/0575-distribute-candies) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ummkhalid/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ummkhalid/30github/tree/master/0001-two-sum) |
+| [0575-distribute-candies](https://github.com/ummkhalid/30github/tree/master/0575-distribute-candies) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ummkhalid/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
 |  |
