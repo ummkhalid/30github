@@ -24,6 +24,7 @@ challenge GrowthHungry
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ummkhalid/30github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ummkhalid/30github/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -62,4 +63,12 @@ challenge GrowthHungry
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ummkhalid/30github/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ummkhalid/30github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ummkhalid/30github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
