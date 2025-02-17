@@ -12,6 +12,7 @@ challenge GrowthHungry
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ummkhalid/30github/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ummkhalid/30github/tree/master/0027-remove-element) |
 | [0575-distribute-candies](https://github.com/ummkhalid/30github/tree/master/0575-distribute-candies) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ummkhalid/30github/tree/master/1477-product-of-the-last-k-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ummkhalid/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -66,6 +67,7 @@ challenge GrowthHungry
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ummkhalid/30github/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ummkhalid/30github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
