@@ -46,6 +46,7 @@ challenge GrowthHungry
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ummkhalid/30github/tree/master/0009-palindrome-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ummkhalid/30github/tree/master/1477-product-of-the-last-k-numbers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ummkhalid/30github/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
