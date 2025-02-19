@@ -82,4 +82,8 @@ challenge GrowthHungry
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ummkhalid/30github/tree/master/0021-merge-two-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/ummkhalid/30github/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
