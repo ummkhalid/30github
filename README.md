@@ -15,6 +15,7 @@ challenge GrowthHungry
 | [0027-remove-element](https://github.com/ummkhalid/30github/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ummkhalid/30github/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ummkhalid/30github/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ummkhalid/30github/tree/master/0066-plus-one) |
 | [0575-distribute-candies](https://github.com/ummkhalid/30github/tree/master/0575-distribute-candies) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ummkhalid/30github/tree/master/1477-product-of-the-last-k-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ummkhalid/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -50,6 +51,7 @@ challenge GrowthHungry
 | ------- |
 | [0009-palindrome-number](https://github.com/ummkhalid/30github/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ummkhalid/30github/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ummkhalid/30github/tree/master/0066-plus-one) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ummkhalid/30github/tree/master/1477-product-of-the-last-k-numbers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ummkhalid/30github/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
