@@ -116,4 +116,20 @@ challenge GrowthHungry
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ummkhalid/30github/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ummkhalid/30github/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ummkhalid/30github/tree/master/0111-minimum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ummkhalid/30github/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ummkhalid/30github/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
