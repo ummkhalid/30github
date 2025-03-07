@@ -32,14 +32,17 @@ challenge GrowthHungry
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ummkhalid/30github/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ummkhalid/30github/tree/master/0058-length-of-last-word) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ummkhalid/30github/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3447-clear-digits](https://github.com/ummkhalid/30github/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ummkhalid/30github/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3447-clear-digits](https://github.com/ummkhalid/30github/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ummkhalid/30github/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3447-clear-digits](https://github.com/ummkhalid/30github/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
