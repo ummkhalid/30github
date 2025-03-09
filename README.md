@@ -17,6 +17,7 @@ challenge GrowthHungry
 | [0048-rotate-image](https://github.com/ummkhalid/30github/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ummkhalid/30github/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ummkhalid/30github/tree/master/0066-plus-one) |
+| [0198-house-robber](https://github.com/ummkhalid/30github/tree/master/0198-house-robber) |
 | [0575-distribute-candies](https://github.com/ummkhalid/30github/tree/master/0575-distribute-candies) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ummkhalid/30github/tree/master/1477-product-of-the-last-k-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ummkhalid/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -121,6 +122,7 @@ challenge GrowthHungry
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ummkhalid/30github/tree/master/0053-maximum-subarray) |
+| [0198-house-robber](https://github.com/ummkhalid/30github/tree/master/0198-house-robber) |
 ## Tree
 |  |
 | ------- |
