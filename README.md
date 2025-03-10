@@ -58,6 +58,7 @@ challenge GrowthHungry
 | [0009-palindrome-number](https://github.com/ummkhalid/30github/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ummkhalid/30github/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ummkhalid/30github/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ummkhalid/30github/tree/master/0070-climbing-stairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ummkhalid/30github/tree/master/1477-product-of-the-last-k-numbers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ummkhalid/30github/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
@@ -122,6 +123,7 @@ challenge GrowthHungry
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ummkhalid/30github/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ummkhalid/30github/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ummkhalid/30github/tree/master/0198-house-robber) |
 ## Tree
 |  |
@@ -139,4 +141,8 @@ challenge GrowthHungry
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ummkhalid/30github/tree/master/0111-minimum-depth-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ummkhalid/30github/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
